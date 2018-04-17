@@ -44,8 +44,8 @@ blocks2:
     heading: Heading for Column 1
   column_2:
     heading: Heading for Column 2
-    text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-      Maecenas sed diam eget risus varius blandit sit amet non magna.Aenean eu leo
-      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed
-      diam eget risus varius blandit sit amet non magna.
+    text: Aenean eu leo quam. <strong>Pellentesque</strong> ornare sem lacinia quam
+      venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non
+      magna.Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+      Maecenas sed diam eget risus varius blandit sit amet non magna.
 ---
