@@ -43,7 +43,7 @@ blocks2:
       Maecenas sed diam eget risus varius blandit sit amet non magna.
     heading: Heading for Column 1
   column_2:
-    heading: asdfasdfasdf
+    heading: Heading for Column 2
     text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
       Maecenas sed diam eget risus varius blandit sit amet non magna.Aenean eu leo
       quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed
