@@ -11,8 +11,8 @@ fields:
   hidden: false
   default: ''
 - type: blocks
-  name: blocks2
-  label: blocks2
+  name: contentblocks
+  label: Content Blocks
   template_types:
   - 2-column-block
   - hero
