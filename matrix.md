@@ -41,7 +41,7 @@ blocks2:
   column_1:
     text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
       Maecenas sed diam eget risus varius blandit sit amet non magna.
-    heading: asdf
+    heading: Heading for Column 1
   column_2:
     heading: asdfasdfasdf
     text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
